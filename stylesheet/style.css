@@ -1,0 +1,52 @@
+.body {background-image: linear-gradient (black, white)
+}
+
+.regdiv {
+	width: 200px;
+	height: 200px;
+}
+
+#div1 {
+	background-color: red;
+	position: relative;
+
+}
+
+#div2 {
+	background-color: pink;
+	position: relative;
+	left: 25px;
+	top: 25px;
+}
+
+#div3 {
+	background-color: purple;
+	position: relative;
+	left: 35px;
+	top: 25px;
+}
+
+#div4 {
+	background-color: blue;
+	position: relative;
+	left: 45px;
+	top: 25px;
+}
+
+#div5 {
+	background-color: black;
+	position: relative;
+	left: 55px;
+	top: 25px;
+}
+
+#div6 {background-color: orange;
+	position: relative;
+	left: 65px;
+	top: 25px;
+}
+
+
+#div7 {
+	background-color: 
+}
